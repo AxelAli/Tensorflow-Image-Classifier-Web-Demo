@@ -1,0 +1,49 @@
+
+html, body {
+    font-family: "Abel script=all rev=2", "Adobe Blank";
+  height: 100%;
+  width: 100%;
+  margin: 0;
+    color: white;
+
+}
+#top {
+  font-size: 85px;
+  background-color: #4ECDC4;
+  height:10%;
+  margin: 0px;
+  text-align: center;
+
+}
+#mid{
+    text-align: center;
+    background-color: #556270;
+    height: 60%;
+    color: black;
+}
+#bot {
+
+  font-size: 15px;
+	height: 30%;
+	clear:both;
+
+  background-color: #FF6B6B;
+
+
+  text-align: center;
+}
+.table {
+  text-align: center;
+  width:100%;
+  border:1px solid #C0C0C0;
+  border-collapse:collapse;
+  padding:5px;
+}
+
+#mid img{
+  max-width:100%;
+  max-height:100%;
+  text-align:center;
+  display:inline-block;
+  margin: auto;
+}
