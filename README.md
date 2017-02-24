@@ -5,24 +5,24 @@ https://github.com/llSourcell/how_to_make_an_image_classifier
 # Tensorflow-Image-Classifier-Web-Demo
 "Calorie Counter", helps you stay fit , by using computer vision to find which item are you eating and giving you nutrition facts
 
-###End result (Its a video , click it)
+###End result (It's a video , click it)
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ECsLu60n0ss/0.jpg)](http://www.youtube.com/watch?v=ECsLu60n0ss)
 
 
 ### Requirements 
 
-Webserver of your choice (nginx/apache/etc)(PHP must be installed)(See Any tutorial for setting up a webserver)
+Web Server of your choice (nginx/apache/etc)(PHP must be installed)(See Any tutorial for setting up a webserver)
 
 
 
 ### Files, What do they do?
-uploads = user summited images go here
+uploads = user submitted images go here
 
 index.html = upload site
 
-postdata.php = main page, prosessing 
+postdata.php = main page, processing 
 
-styles.css = CSS styles for the webpage
+styles.css = CSS styles for the web page
 
 
 
@@ -31,7 +31,7 @@ styles.css = CSS styles for the webpage
 Source: SAO Ordinal Scale - A1 Pictures
 
 ###First Step
-Clone this proyect (In terminal)
+Clone this project (In terminal)
 ```
 git clone https://github.com/AxelAli/Tensorflow-Image-Classifier-Web-Demo.git
 cd Tensorflow-Image-Classifier-Web-Demo
@@ -39,7 +39,7 @@ cd Tensorflow-Image-Classifier-Web-Demo
 then
 
 ###Setting a tensorflow image recognizer
-Follow this proyect.
+Follow this project.
 ```
 https://github.com/AxelAli/Tensorflow-Image-Classification
 ```
@@ -47,6 +47,8 @@ When finished
 ```
 cd ..
 ```
+
+
 (We should now be in this proyect folder)
 
 
