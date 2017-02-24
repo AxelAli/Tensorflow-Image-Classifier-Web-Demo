@@ -1,8 +1,14 @@
+#Proyect Part of Sirajology Weekly Proyect
+https://github.com/llSourcell/how_to_make_an_image_classifier
+
+
 # Tensorflow-Image-Classifier-Web-Demo
 "Calorie Counter", helps you stay fit , by using computer vision to find which item are you eating and giving you nutrition facts
 
-###End result
+###End result (Its a video , click it)
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ECsLu60n0ss/0.jpg)](http://www.youtube.com/watch?v=ECsLu60n0ss)
+
+
 ### Requirements 
 
 Webserver of your choice (nginx/apache/etc)(PHP must be installed)(See Any tutorial for setting up a webserver)
@@ -69,3 +75,5 @@ Open your webserver
 >if it doesnt find anything it shows a random item (we should check Accuracy of <80%)
 
 >data is hardcoded, this should be made with a database
+
+>if it doenst know which item it is, it should ask the user what is it and run the code to add it automatically
