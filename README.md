@@ -1,6 +1,3 @@
-#Proyect Part of Sirajology Weekly Proyect
-https://github.com/llSourcell/how_to_make_an_image_classifier
-
 
 # Tensorflow-Image-Classifier-Web-Demo
 "Calorie Counter", helps you stay fit , by using computer vision to find which item are you eating and giving you nutrition facts
